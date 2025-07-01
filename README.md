@@ -1,11 +1,6 @@
 
 
-- 👋 Hi, I’m Irfan Pavel.Right now I am a student pursuing my Bachelor's in the field of Computer Science and Engineering. I am very much skilled and comfortable in Python, Data        Science and Machine Learning, Deep Learning and Microsoft SQL . I have done so many Practical projects using Python For Data Science & Machine Learning, Deep Learning,      Computer vision and Image Processing. Also, I have the industry level applied experience of all the topics I mentioned earlier.
--    
-- 👀 I’m interested in Data Science ,Machine Learning and Deep Learing
-- 
-- 🌱 I’m currently learning Advanced Driver Assitance Systems (ADAS)
-- .
+- 👋 Hi, I’m Irfan Pavel. I am currently working to improve VR/AR user experience using Machine Learning and Deep Learning algorithms in an immersive environment. I aim to enhance immersive experiences, revolutionize user interactions, and drive innovation across various domains of XR through the use of Artificial Intelligence.
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/irfan-pavel/)
 
 
